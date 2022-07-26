@@ -11,19 +11,9 @@ const segundoNumero = 2;
 
 // ponto flutuante
 
-const numeroPontoFlutuante = 6.3;
+const numeroPontoFlutuante = 3.3;
 const pontoFlutuanteSemZero = 3;
 
 const novaOperacao = primeiroNumero/numeroPontoFlutuante;
 
 console.log(novaOperacao) 
-
-
-// strings
-
-const citacao = "Meu nome é "
-const nome = "Rômulo" 
-
-console.log(citacao + nome)
-
-
